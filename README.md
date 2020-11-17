@@ -14,8 +14,8 @@
  The majority class (joy) has over than 140 thousand sample in the other hand the minority class (surprise) has less than 15 thousand 
         sample so there is a clear indicator of an imbalanced data set here.  
     <br>
-        <img src="screen1.png" style="display: block; width: 200px; margin-right: auto;margin-left: auto;"></br>
+        <img src="imgs/screen1.png" style="display: block; width: 200px; margin-right: auto;margin-left: auto;"></br>
         Most of the tweets lengths is between 5 to 25 words. Furthermore tweets lengths for each class are pretty much the same e.g. joy and sadness
         <br>
-        <img src="screen3.png" style="display: block; width: 200px; margin-right: auto;margin-left: auto;"></br>
+        <img src="imgs/screen3.png" style="display: block; width: 200px; margin-right: auto;margin-left: auto;"></br>
 
